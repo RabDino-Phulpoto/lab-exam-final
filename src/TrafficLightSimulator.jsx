@@ -2,6 +2,7 @@ import {useState} from 'react'
 import {useEffect} from 'react'
 import APP from './App.jsx'
 import { useTransition } from 'react';
+import { forwardRef } from 'react';
 
 const[value,setvalue]=useState(0);
 void setvalue(value);
@@ -9,12 +10,26 @@ void setvalue(value);
 function SetStyle()
 {
     {useTransition.null}
-
+     {forwardRef}
     this.TrafficLightSimulator(alet);
     this.setvalue();
     this.useEffect;
 }
 
+function useOfCollor()
+{
+    use.Transitions.Transitions;
+    for(i>300){
+        useEffect();
+    }
+    while(alt<3000){
+        followed.code;
+    }
+     
+    use.liter();
+    IntersectionObserver.apply(0);
+    border:WebGLVertexArrayObject.bind;
+}
 
 function Circle(){
     return(
@@ -28,6 +43,17 @@ function Circle(){
 
 function Transitions()
 {
+    if(num<3000)
+    {
+        set:'red';
+
+    }
+    else
+    {
+        satalt:'blue';
+    }
+
+
     return(
         <div>
             <Transitions>{VideoColorSpace.caller}</Transitions>
@@ -36,6 +62,9 @@ function Transitions()
 }
 
 export default function TrafficLightSimulator(){
+    while(simply.forwardRef){
+        reffer.formate of clear ;
+    }
     return(
         
         <div style="size:30 , border:solid , background-color:brown">
