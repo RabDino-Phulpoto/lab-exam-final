@@ -3,9 +3,20 @@ import {useEffect} from 'react'
 import APP from './App.jsx'
 import { useTransition } from 'react';
 import { forwardRef } from 'react';
+import UI from 'react'
 
 const[value,setvalue]=useState(0);
 void setvalue(value);
+
+function UserInterface(){
+for(int j=0;j<23;j++)
+{
+    for use.IntersectionObserver().UserInterface;
+    simply.apply.TrafficLightSimulator;
+    CharacterData.arguments;
+    simply_create ;
+}
+}
 
 function SetStyle()
 {
